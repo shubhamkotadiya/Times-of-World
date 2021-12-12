@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Times-of-World/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/Times-of-World/static/js/main.ac19fc76.chunk.js",
+    "main.js.map": "/Times-of-World/static/js/main.ac19fc76.chunk.js.map",
+    "runtime-main.js": "/Times-of-World/static/js/runtime-main.240ac73c.js",
+    "runtime-main.js.map": "/Times-of-World/static/js/runtime-main.240ac73c.js.map",
+    "static/js/2.efa3f49c.chunk.js": "/Times-of-World/static/js/2.efa3f49c.chunk.js",
+    "static/js/2.efa3f49c.chunk.js.map": "/Times-of-World/static/js/2.efa3f49c.chunk.js.map",
+    "static/js/3.b9415c02.chunk.js": "/Times-of-World/static/js/3.b9415c02.chunk.js",
+    "static/js/3.b9415c02.chunk.js.map": "/Times-of-World/static/js/3.b9415c02.chunk.js.map",
+    "index.html": "/Times-of-World/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/Times-of-World/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.efa3f49c.chunk.js.LICENSE.txt": "/Times-of-World/static/js/2.efa3f49c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.240ac73c.js",
+    "static/js/2.efa3f49c.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ac19fc76.chunk.js"
+  ]
+}
